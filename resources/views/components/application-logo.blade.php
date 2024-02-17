@@ -1,0 +1,1 @@
+<img src="{{asset('img/quickapps-logo/quick-app-light.svg')}}" style="height: 50px;">
